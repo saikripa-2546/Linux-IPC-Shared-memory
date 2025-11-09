@@ -46,12 +46,14 @@ int main()
 	shmdt(str);
 
 	return 0;
-}```
+}
+```
 
 
 
 
 ## OUTPUT
+
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 
