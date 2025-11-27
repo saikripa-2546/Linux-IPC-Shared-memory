@@ -53,17 +53,8 @@ int main()
 
 
 ## OUTPUT
-<<<<<<< HEAD
-
-![Alt text](image-2.png)
-![Alt text](image-5.png)
-![Alt text](image-4.png)
-=======
-<img width="355" height="302" alt="image" src="https://github.com/user-attachments/assets/4c7fb197-594b-4992-a06d-55e4c2722a20" />
-
-<img width="641" height="641" alt="image" src="https://github.com/user-attachments/assets/6b7eb44a-4562-4359-851d-60da65c2d107" />
-
->>>>>>> 71db9610c8f2333c70b3617e7716c68dec61eb71
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 # RESULT:
 The program is executed successfully.
